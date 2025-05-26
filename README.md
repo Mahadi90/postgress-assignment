@@ -34,7 +34,7 @@ The Primary Key is a column that uniquely identifies each row in a table.
 - It ensures that the value is unique and not NULL.
 - Often used as the main identifier for each record.
 
-📌 **Example**:
+**Example**:
 ```sql
 CREATE TABLE rangers (
     ranger_id SERIAL PRIMARY KEY,
